@@ -1,13 +1,14 @@
 ## Assignment 1: Setup Git and GitHub
 
-- To install git, create an account at GitHub, fork a copy of BMSSlib or BMSS2 to their GitHub account. 
-- To create a folder named ‘FYP_username_2020_21’ at their GitHub account and share the folder with us. 
+- To install git, create an account at GitHub, fork a copy of BMSSlib or BMSS2 to your own GitHub account. 
+- To create a folder named ‘FYP_yourname_2020_21’ at your GitHub account and share the folder with us (JingWui and russellnjk). 
 
 
 ## Assignment 2: Model Simulation and Curve-fitting
 
 - After going through the sample codes provided in the link below:
-- https://github.com/EngBioNUS/Resources/blob/master/Introduction%20to%20Curve-Fitting.ipynb
+
+https://github.com/EngBioNUS/Resources/blob/master/Introduction%20to%20Curve-Fitting.ipynb
 
 1. Use a different model.
 	- Suppose we want to simplify the model into a one-step process i.e. protein synthesis is directly controlled by the inducer with no mRNA involved. Write your own model function and repeat the steps above using your model.
