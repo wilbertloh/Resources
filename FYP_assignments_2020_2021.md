@@ -1,7 +1,7 @@
 ## Assignment 1: Setup Git and GitHub
 
 - To install git, create an account at GitHub, fork a copy of BMSSlib or BMSS2 to your own GitHub account. 
-- To create a folder named ‘FYP_yourname_2020_21’ at your GitHub account and share the folder with us (JingWui and russellnjk). 
+- To create a folder named ‘FYP_yourname_2020_21’ at your GitHub account and share the folder with us (GitHub username: JingWui and russellnjk). 
 
 
 ## Assignment 2: Model Simulation and Curve-fitting
